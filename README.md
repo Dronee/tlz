@@ -1,4 +1,4 @@
-# tlz
+# dlz
 Easy tar.lz4 compressor and decompressor
 Ideal for compressing/decompressing large file and folders in super fast speed.
 If file has extension as .dlz it will decompress it other wise it will compress it with extension .dlz
@@ -6,11 +6,11 @@ which is  .tar.lz4 form of file or folder.
 <br />
 Example usage:<br />
 
-to compress <br />
+#to compress <br />
 ```dlz LinuxImageFolder``` <br />
 
 
-to decompress <br />
+#to decompress <br />
 ```dlz LinuxImageFolder.dlz```
 
 
