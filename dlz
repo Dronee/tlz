@@ -1,0 +1,9 @@
+#!/bin/bash
+f=$1
+x=${f: -3}
+ if [ "$x" == "dlz" ];
+      then
+              lz4 -d $f - | tar xvf - 
+      else
+              tar cvf - $f | lz4 > ${f%.*}.dlz
+      fi
