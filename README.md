@@ -6,21 +6,21 @@ which is  .tar.lz4 form of file or folder.
 <br />
 Example usage:<br />
 
-#to compress <br />
+# to compress <br />
 ```dlz LinuxImageFolder``` <br />
 
 
-#to decompress <br />
+# to decompress <br />
 ```dlz LinuxImageFolder.dlz```
 
 
-Installation OSX: <br />
+# Installation OSX: <br />
 ```
 brew install lz4
 sudo cp dlz /usr/local/bin/dlz
 ```
 
-Installation Linux: <br />
+# Installation Linux: <br />
 ```
 sudo apt-get install lz4
 sudo cp dlz /usr/local/bin/dlz
