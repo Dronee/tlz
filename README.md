@@ -7,9 +7,9 @@ which is  .tar.lz4 form of file or folder.
 Example usage:
 <br />
 to compress
-```dlz LinuxImageFolder```
+```dlz LinuxImageFolder``` <br />
 
-<br />
+
 to decompress
 ```dlz LinuxImageFolder.dlz```
 
