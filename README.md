@@ -4,24 +4,23 @@ Ideal for compressing/decompressing large file and folders in super fast speed.
 If file has extension as .dlz it will decompress it other wise it will compress it with extension .dlz
 which is  .tar.lz4 form of file or folder.
 <br />
-Example usage:
-<br />
-to compress
+Example usage:<br />
+
+to compress <br />
 ```dlz LinuxImageFolder``` <br />
 
 
-to decompress
+to decompress <br />
 ```dlz LinuxImageFolder.dlz```
 
-<br />
-Installation OSX:
+
+Installation OSX: <br />
 ```
 brew install lz4
 sudo cp dlz /usr/local/bin/dlz
 ```
 
-<br />
-Installation Linux:
+Installation Linux: <br />
 ```
 sudo apt-get install lz4
 sudo cp dlz /usr/local/bin/dlz
