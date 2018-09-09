@@ -28,4 +28,4 @@ sudo cp dlz /usr/local/bin/dlz
 
 <br />
 Experiments on Some Linux VM Images
-18GB Linux image is compressed to 6GB (obviously percentage is dependant on information amount inside VM image)
+18GB Linux image is compressed to 6GB in less than a min (obviously percentage is dependant on information amount inside VM image)
