@@ -22,7 +22,7 @@ sudo cp dlz /usr/local/bin/dlz
 
 # Installation Linux: <br />
 ```
-sudo apt-get install lz4
+sudo apt-get install liblz4-tool
 sudo cp dlz /usr/local/bin/dlz
 ```
 
