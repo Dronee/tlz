@@ -31,3 +31,4 @@ Experiments on some  VM Images <br />
 18GB Linux image is compressed to 6GB in less than a min 
 <br />
 (obviously compression percentage and time is dependant on information amount inside VM image)
+by https://dron.ee
